@@ -18,11 +18,6 @@ identifier = "image-credit"
 name = "Image Credit"
 url = "/image-credit/"
 weight = 20
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 40
 [params]
 description = "Jelejahi Keindahan Banjarnegara "
 facebook = "https://facebook.com/ozip.cf"
