@@ -1,3 +1,4 @@
+ignoreErrors = ["error-missing-instagram-accesstoken"]
 DefaultContentLanguage = "id"
 author = "Ozi Saputra "
 baseURL = "https://banjarnegara.pages.dev/"
